@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Back-end Development**
 
 - 👯 I’m looking to collaborate on **SubChat.ai**
+  
+- 🔭 I’m open to job offers
 
 - 📫 How to reach me **melvinjisieike.c@gmail.com**
 
