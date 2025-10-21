@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melvin</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Software developer</h3>
 
-- 🔭 I’m currently working on **BR-Connectivity**
+- 🔭 I’m currently working on **Paperless-Flow**
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently mastering **Java**
 
 - 👯 I’m looking to collaborate on **SubChat.ai**
   
