@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently mastering **Java**
 
-- 👯 I’m looking to collaborate on **SubChat.ai**
+- 👯 I’m looking to collaborate on **Creatorcliq.ai**
   
 - 🔭 I’m open to job offers
 
 - 📫 How to reach me **melvinjisieike.c@gmail.com**
 
-- ⚡ Fun fact **I am a pro FIFA player**
+- ⚡ Fun fact **I am an Arsenal fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
