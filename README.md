@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **melvinjisieike.c@gmail.com**
 
-- ⚡ Fun fact **I am an Arsenal fan**
+- ⚡ Fun fact **I am a Pro FIFA Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
